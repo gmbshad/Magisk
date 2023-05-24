@@ -1,0 +1,8 @@
+<root>
+    <item
+        name='org.jetbrains.kotlin.compilerRunner.ArgumentUtils java.util.List&lt;java.lang.String&gt; convertArgumentsToStringList(org.jetbrains.kotlin.cli.common.arguments.CommonToolArguments)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;_-&gt;new&quot;" />
+        </annotation>
+    </item>
+</root>

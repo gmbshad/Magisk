@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.topjohnwu.magisk.stub-mergeDebugResources-3:/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/Users/redd/StudioProjects/Magik/stub/src/main/res/values-de/strings.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "158,16",
+                        "endColumns": "153,141",
+                        "endOffsets": "307,153"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,209",
+                        "endColumns": "153,141",
+                        "endOffsets": "204,346"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,10 +1,17 @@
 pluginManagement {
     repositories {
+<<<<<<< Updated upstream:settings.gradle
         gradlePluginPortal()
         google()
         mavenCentral()
     }
 }
+=======
+        mavenCentral()
+    }
+}
+@Suppress("UnstableApiUsage")
+>>>>>>> Stashed changes:settings.gradle.kts
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
@@ -13,4 +20,8 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Magisk"
+<<<<<<< Updated upstream:settings.gradle
 include ':app'
+=======
+include(":app", ":app:shared", ":stub")
+>>>>>>> Stashed changes:settings.gradle.kts

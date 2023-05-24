@@ -1,0 +1,3 @@
+/Users/redd/StudioProjects/Magik/buildSrc/src/main/java/Setup.kt
+/Users/redd/StudioProjects/Magik/buildSrc/src/main/java/Plugin.kt
+/Users/redd/StudioProjects/Magik/buildSrc/src/main/java/Codegen.kt

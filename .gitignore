@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+gradle/wrapper/gradle-wrapper.properties
+jdks/CACHEDIR.TAG
+*.TAG
+*.properties

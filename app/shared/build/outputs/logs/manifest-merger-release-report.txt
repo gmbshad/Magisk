@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:1:1-30:12
+	package
+		INJECTED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:1:11-69
+	android:installLocation
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:3:5-43
+uses-permission#android.permission.INTERNET
+ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:7:22-74
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:8:5-83
+	android:name
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:8:22-80
+uses-permission#android.permission.HIDE_OVERLAY_WINDOWS
+ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION
+ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:10:5-94
+	android:name
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:10:22-91
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:11:22-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:12:5-14:38
+	android:maxSdkVersion
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:14:9-35
+	android:name
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:13:9-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:15:5-18:40
+	android:maxSdkVersion
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:17:9-35
+	tools:ignore
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:18:9-37
+	android:name
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:16:9-65
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:19:5-21:53
+	tools:ignore
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:20:9-61
+application
+ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:23:5-28:71
+	android:requestLegacyExternalStorage
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:26:9-52
+	android:supportsRtl
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:25:9-31
+	android:allowBackup
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:24:9-36
+	android:theme
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:28:9-68
+uses-sdk
+INJECTED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml
+INJECTED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml
+INJECTED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml
+INJECTED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml
+		INJECTED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml
+		ADDED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml
+		INJECTED from /Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml

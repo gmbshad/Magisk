@@ -1,0 +1,4 @@
+com.topjohnwu.magisk.test.stub-androidTest-0 /Users/redd/StudioProjects/Magik/stub/build/generated/res/resValues/androidTest/debug
+com.topjohnwu.magisk.test.stub-mergeDebugAndroidTestResources-1 /Users/redd/StudioProjects/Magik/stub/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.topjohnwu.magisk.test.stub-mergeDebugAndroidTestResources-2 /Users/redd/StudioProjects/Magik/stub/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.topjohnwu.magisk.test.stub-merged_res-3 /Users/redd/StudioProjects/Magik/stub/build/intermediates/merged_res/debugAndroidTest

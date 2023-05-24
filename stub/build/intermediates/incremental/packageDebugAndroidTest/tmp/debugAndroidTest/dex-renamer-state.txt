@@ -1,0 +1,7 @@
+#Wed May 24 03:45:31 MDT 2023
+base.0=/Users/redd/StudioProjects/Magik/stub/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/Users/redd/StudioProjects/Magik/stub/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/5/classes.dex
+path.0=0/classes.dex
+path.1=5/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

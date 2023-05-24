@@ -1,0 +1,73 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.topjohnwu.magisk"
+4    android:versionCode="1"
+5    android:versionName="1.0REDDrelease" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/Users/redd/StudioProjects/Magik/stub/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/redd/StudioProjects/Magik/stub/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+11-->/Users/redd/StudioProjects/Magik/stub/src/main/AndroidManifest.xml:6:5-72
+11-->/Users/redd/StudioProjects/Magik/stub/src/main/AndroidManifest.xml:6:22-69
+12    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+12-->/Users/redd/StudioProjects/Magik/stub/src/main/AndroidManifest.xml:7:5-74
+12-->/Users/redd/StudioProjects/Magik/stub/src/main/AndroidManifest.xml:7:22-71
+13    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+13-->/Users/redd/StudioProjects/Magik/stub/src/main/AndroidManifest.xml:8:5-88
+13-->/Users/redd/StudioProjects/Magik/stub/src/main/AndroidManifest.xml:8:22-85
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-67
+14-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-79
+15-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-76
+16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+16-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-77
+16-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:22-74
+17    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+17-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:5-83
+17-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:22-80
+18    <uses-permission android:name="android.permission.HIDE_OVERLAY_WINDOWS" />
+18-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-79
+18-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:22-76
+19    <uses-permission android:name="android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION" />
+19-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:5-94
+19-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:22-91
+20    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+20-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-77
+20-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:22-74
+21    <uses-permission
+21-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:5-18:38
+22        android:name="android.permission.READ_EXTERNAL_STORAGE"
+22-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:9-64
+23        android:maxSdkVersion="29" />
+23-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:9-35
+24    <uses-permission
+24-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:5-22:40
+25        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+25-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:9-65
+26        android:maxSdkVersion="29" />
+26-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:9-35
+27    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+27-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:5-25:53
+27-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:9-61
+28
+29    <application
+29-->/Users/redd/StudioProjects/Magik/stub/src/main/AndroidManifest.xml:10:5-11:19
+30        android:allowBackup="false"
+30-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:9-36
+31        android:label="Magisk"
+31-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:9-31
+32        android:requestLegacyExternalStorage="true"
+32-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:30:9-52
+33        android:supportsRtl="true"
+33-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:31:9-35
+34        android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+34-->[:app:shared] /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:32:9-68
+35    </application>
+36
+37</manifest>

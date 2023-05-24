@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.topjohnwu.magisk.stub-mergeReleaseResources-3:/values-zh-rCN/values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "/Users/redd/StudioProjects/Magik/stub/src/main/res/values-zh-rCN/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "183,123,222,55",
+                        "endColumns": "38,59,49,67",
+                        "endOffsets": "217,178,267,118"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,94,154,204",
+                        "endColumns": "38,59,49,67",
+                        "endOffsets": "89,149,199,267"
+                    }
+                }
+            ]
+        }
+    ]
+}

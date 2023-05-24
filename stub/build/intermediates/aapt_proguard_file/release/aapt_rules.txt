@@ -1,0 +1,8 @@
+-keep class pCB.T { <init>(); }
+-keep class v.qw { <init>(); }
+-keep class x.COMPONENT_PLACEHOLDER_0 { <init>(); }
+-keep class x.COMPONENT_PLACEHOLDER_1 { <init>(); }
+-keep class x.COMPONENT_PLACEHOLDER_2 { <init>(); }
+-keep class x.COMPONENT_PLACEHOLDER_3 { <init>(); }
+-keep class x.COMPONENT_PLACEHOLDER_4 { <init>(); }
+-keep class x.COMPONENT_PLACEHOLDER_5 { <init>(); }

@@ -1,0 +1,136 @@
+com.topjohnwu.magisk.BuildConfig:
+    public static final boolean DEBUG
+    public static final int STUB_VERSION
+    public static final int VERSION_CODE
+    public void <init>()
+com.topjohnwu.magisk.Bytes:
+    public void <init>()
+com.topjohnwu.magisk.DynLoad:
+    public void <init>()
+com.topjohnwu.magisk.ProviderInstaller:
+    public void <init>()
+com.topjohnwu.magisk.R$string:
+    public static int relaunch_app
+    private void <init>()
+com.topjohnwu.magisk.R
+com.topjohnwu.magisk.StubApk$Data:
+    private static final int ARR_SIZE
+    private static final int CLASS_COMPONENT_MAP
+    private static final int ROOT_SERVICE
+    private static final int STUB_VERSION
+    public void <init>(java.lang.Object)
+    public int getVersion()
+com.topjohnwu.magisk.StubApk:
+    public void <init>()
+    public static java.io.File current(android.content.pm.ApplicationInfo)
+    public static java.io.File update(android.content.pm.ApplicationInfo)
+com.topjohnwu.magisk.net.BadRequest:
+    public com.topjohnwu.magisk.net.Request addHeaders(java.lang.String,java.lang.String)
+    public void execForFile(java.io.File)
+    public com.topjohnwu.magisk.net.Request$Result execForInputStream()
+    public com.topjohnwu.magisk.net.Request$Result execForJSONArray()
+    public com.topjohnwu.magisk.net.Request$Result execForJSONObject()
+    public com.topjohnwu.magisk.net.Request$Result execForString()
+    public void getAsJSONArray(com.topjohnwu.magisk.net.ResponseListener)
+    public void getAsString(com.topjohnwu.magisk.net.ResponseListener)
+com.topjohnwu.magisk.net.Networking:
+    private static final int CONNECT_TIMEOUT
+    private static final int READ_TIMEOUT
+    public void <init>()
+com.topjohnwu.magisk.net.Request$Result
+com.topjohnwu.magisk.net.Request:
+    public com.topjohnwu.magisk.net.Request addHeaders(java.lang.String,java.lang.String)
+    public com.topjohnwu.magisk.net.Request$Result connect()
+    private byte[] dlBytes()
+    private org.json.JSONArray dlJSONArray()
+    private com.topjohnwu.magisk.net.Request$Result exec(com.topjohnwu.magisk.net.Request$Requestor)
+    public com.topjohnwu.magisk.net.Request$Result execForBytes()
+    public void execForFile(java.io.File)
+    public com.topjohnwu.magisk.net.Request$Result execForInputStream()
+    public com.topjohnwu.magisk.net.Request$Result execForJSONArray()
+    public com.topjohnwu.magisk.net.Request$Result execForJSONObject()
+    public com.topjohnwu.magisk.net.Request$Result execForString()
+    public void getAsBytes(com.topjohnwu.magisk.net.ResponseListener)
+    public void getAsJSONArray(com.topjohnwu.magisk.net.ResponseListener)
+    public void getAsString(com.topjohnwu.magisk.net.ResponseListener)
+    private synthetic java.io.File lambda$execForFile$1(java.io.File)
+com.topjohnwu.magisk.utils.APKInstall$InstallReceiver:
+    public void install(android.content.Context,java.io.File)
+com.topjohnwu.magisk.utils.APKInstall$Session:
+    public abstract void install(android.content.Context,java.io.File)
+com.topjohnwu.magisk.utils.APKInstall:
+    public void <init>()
+com.topjohnwu.shared.R
+org.lsposed.lsparanoid.Deobfuscator$Magisk$stub:
+    public void <init>()
+org.lsposed.lsparanoid.DeobfuscatorHelper:
+    public static final int MAX_CHUNK_LENGTH
+    private void <init>()
+org.lsposed.lsparanoid.Obfuscate
+org.lsposed.lsparanoid.RandomHelper:
+    private void <init>()
+com.topjohnwu.magisk.BuildConfig:
+    public static final java.lang.String APK_URL
+    public static final java.lang.String APPLICATION_ID
+    public static final java.lang.String BUILD_TYPE
+    public static final java.lang.String VERSION_NAME
+com.topjohnwu.magisk.Bytes$$IA$1
+com.topjohnwu.magisk.Bytes$$IA$2
+com.topjohnwu.magisk.Bytes$$IA$3
+com.topjohnwu.magisk.Bytes:
+    public static long getCharAt(int,java.lang.String[],long)
+    public static void registerReceiver(android.content.Context,com.topjohnwu.magisk.utils.APKInstall$InstallReceiver,android.content.IntentFilter)
+    public static short rotl(short,int)
+com.topjohnwu.magisk.DownloadActivity$$InternalSyntheticLambda$3$67e8dc164b0132f3545e9c4ffad67e99ee16e259feb376702f4e1dfee2bcfb67$0
+com.topjohnwu.magisk.DownloadActivity$$InternalSyntheticLambda$3$67e8dc164b0132f3545e9c4ffad67e99ee16e259feb376702f4e1dfee2bcfb67$1
+com.topjohnwu.magisk.DownloadActivity$$InternalSyntheticLambda$3$bd77a61bc9f543819a8c5938d76b0ca8d73b5f7c878bdb822aea672252164a52$0:
+    public final void onError(java.lang.Exception)
+    public final void onResponse()
+com.topjohnwu.magisk.DownloadActivity$$InternalSyntheticLambda$4$78ac5e4fc7413f68d0c675fb96a7c959e2cf7bf444a1358c3bd2c7d132255b20$0
+com.topjohnwu.magisk.DownloadActivity$$InternalSyntheticLambda$4$78ac5e4fc7413f68d0c675fb96a7c959e2cf7bf444a1358c3bd2c7d132255b20$1
+com.topjohnwu.magisk.DownloadActivity$$InternalSyntheticLambda$4$f5dea26bd04def6dcca695a3ae526b67ed92053d6eb7b0e8875da2ce49cb5a11$0
+com.topjohnwu.magisk.DownloadActivity:
+    public static final java.lang.String APP_NAME
+    public static final java.lang.String JSON_URL
+    public static void dlAPK()
+    public static void fetchCanary()
+    public final void showDialog()
+com.topjohnwu.magisk.DynLoad:
+    public static final synthetic boolean $assertionsDisabled
+com.topjohnwu.magisk.ProviderInstaller
+com.topjohnwu.magisk.R$string
+com.topjohnwu.magisk.StubApk$Data:
+    public static java.util.Map getClassToComponent()
+    public static java.lang.Object getObject()
+    public static java.lang.Class getRootService()
+    public static void setClassToComponent()
+    public static void setRootService()
+    public static void setVersion()
+com.topjohnwu.magisk.net.BadRequest:
+    public final void fail()
+com.topjohnwu.magisk.net.ErrorHandler
+com.topjohnwu.magisk.net.Request$$InternalSyntheticLambda$5$89d43b59a86d16bb542c3448dc0a48b69c248a6cb3e6e96e0146e59d1c208546$0
+com.topjohnwu.magisk.net.Request:
+    public int code
+    public static void connect0()
+    public static java.io.File dlFile()
+    public static org.json.JSONObject dlJSONObject()
+    public static java.lang.String dlString()
+    public static void getAsInputStream()
+    public static com.topjohnwu.magisk.net.Request setErrorHandler()
+    public static com.topjohnwu.magisk.net.Request setExecutor()
+    public final void submit(com.topjohnwu.magisk.net.Request$Requestor,com.topjohnwu.magisk.DownloadActivity$$InternalSyntheticLambda$3$bd77a61bc9f543819a8c5938d76b0ca8d73b5f7c878bdb822aea672252164a52$0)
+com.topjohnwu.magisk.net.ResponseListener:
+    public abstract void onResponse()
+com.topjohnwu.magisk.utils.APKInstall$InstallReceiver$1:
+    public final synthetic com.topjohnwu.magisk.utils.APKInstall$InstallReceiver this$0
+com.topjohnwu.magisk.utils.APKInstall$InstallReceiver-IA
+com.topjohnwu.magisk.utils.APKInstall$InstallReceiver:
+    public final void onSuccess(android.content.Context)
+    public final android.content.Intent waitIntent()
+com.topjohnwu.magisk.utils.APKInstall$Session
+com.topjohnwu.magisk.utils.APKInstall
+com.topjohnwu.magisk.utils.CompoundEnumeration:
+    public final boolean next()
+org.lsposed.lsparanoid.DeobfuscatorHelper
+org.lsposed.lsparanoid.RandomHelper

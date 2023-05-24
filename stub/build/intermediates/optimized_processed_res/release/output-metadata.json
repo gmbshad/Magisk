@@ -1,0 +1,19 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "OPTIMIZED_PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "com.topjohnwu.magisk",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.0REDDrelease",
+      "outputFile": "resources-release-optimize.ap_"
+    }
+  ]
+}

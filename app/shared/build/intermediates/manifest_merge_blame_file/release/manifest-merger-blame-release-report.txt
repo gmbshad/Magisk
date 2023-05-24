@@ -1,0 +1,65 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.topjohnwu.shared"
+5    android:installLocation="internalOnly" >
+6
+7    <uses-sdk android:minSdkVersion="23" />
+7-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.INTERNET" />
+9-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:5:5-67
+9-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:5:22-64
+10    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+10-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:6:5-79
+10-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:6:22-76
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:7:5-77
+11-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:7:22-74
+12    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+12-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:8:5-83
+12-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:8:22-80
+13    <uses-permission android:name="android.permission.HIDE_OVERLAY_WINDOWS" />
+13-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:9:5-79
+13-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:9:22-76
+14    <uses-permission android:name="android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION" />
+14-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:10:5-94
+14-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:10:22-91
+15    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+15-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:11:5-77
+15-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:11:22-74
+16    <uses-permission
+16-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:12:5-14:38
+17        android:name="android.permission.READ_EXTERNAL_STORAGE"
+17-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:13:9-64
+18        android:maxSdkVersion="29" />
+18-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:14:9-35
+19    <uses-permission
+19-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:15:5-18:40
+20        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+20-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:16:9-65
+21        android:maxSdkVersion="29"
+21-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:17:9-35
+22        tools:ignore="ScopedStorage" />
+22-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:18:9-37
+23    <uses-permission
+23-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:19:5-21:53
+24        android:name="android.permission.QUERY_ALL_PACKAGES"
+24-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:20:9-61
+25        tools:ignore="QueryAllPackagesPermission" />
+25-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:21:9-50
+26
+27    <application
+27-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:23:5-28:71
+28        android:allowBackup="false"
+28-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:24:9-36
+29        android:label="Magisk"
+29-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:25:9-31
+30        android:requestLegacyExternalStorage="true"
+30-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:26:9-52
+31        android:supportsRtl="true"
+31-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:27:9-35
+32        android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+32-->/Users/redd/StudioProjects/Magik/app/shared/src/main/AndroidManifest.xml:28:9-68
+33
+34</manifest>

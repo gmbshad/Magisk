@@ -1,0 +1,8 @@
+com.topjohnwu.magisk.stub-packaged_res-0 /Users/redd/StudioProjects/Magik/app/shared/build/intermediates/packaged_res/debug
+com.topjohnwu.magisk.stub-pngs-1 /Users/redd/StudioProjects/Magik/stub/build/generated/res/pngs/debug
+com.topjohnwu.magisk.stub-resValues-2 /Users/redd/StudioProjects/Magik/stub/build/generated/res/resValues/debug
+com.topjohnwu.magisk.stub-packageDebugResources-3 /Users/redd/StudioProjects/Magik/stub/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.topjohnwu.magisk.stub-packageDebugResources-4 /Users/redd/StudioProjects/Magik/stub/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.topjohnwu.magisk.stub-merged_res-5 /Users/redd/StudioProjects/Magik/stub/build/intermediates/merged_res/debug
+com.topjohnwu.magisk.stub-debug-6 /Users/redd/StudioProjects/Magik/stub/src/debug/res
+com.topjohnwu.magisk.stub-main-7 /Users/redd/StudioProjects/Magik/stub/src/main/res
