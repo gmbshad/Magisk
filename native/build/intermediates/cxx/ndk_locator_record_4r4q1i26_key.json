@@ -1,0 +1,8 @@
+{
+  "ndkPathFromDsl": "/usr/local/caskroom/android-sdk/ndk/magisk",
+  "sdkFolder": "/usr/local/caskroom/android-sdk",
+  "sideBySideNdkFolderNames": [
+    "Magisk",
+    "23.1.7779620"
+  ]
+}

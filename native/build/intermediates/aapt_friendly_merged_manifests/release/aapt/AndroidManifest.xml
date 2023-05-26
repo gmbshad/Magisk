@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file exists only to make Android Studio happy -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.topjohnwu.magisk.native" >
+
+    <uses-sdk android:minSdkVersion="23" />
+
+</manifest>
